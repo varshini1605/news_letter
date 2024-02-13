@@ -1,0 +1,5 @@
+Avoid having too many attributes on an object
+Instead, group attributes to better express intent
+Pros:
+- Improves readability
+- Things that belong/change together are grouped together
